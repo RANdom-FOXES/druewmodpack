@@ -9,6 +9,10 @@
       "version": "2.1.2+1.20"
     },
     {
+      "id": "architectury-api",
+      "version": "9.2.14+fabric"
+    },
+    {
       "id": "balm",
       "version": "7.3.27+fabric-1.20.1"
     },
