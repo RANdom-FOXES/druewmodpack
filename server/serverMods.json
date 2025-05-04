@@ -37,6 +37,10 @@
       "version": "1.0"
     },
     {
+      "id": "cloth-config",
+      "version": "11.1.136+fabric"
+    },
+    {
       "id": "creativecore",
       "version": "2.12.33"
     },
